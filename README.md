@@ -15,3 +15,8 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 ![](https://img.shields.io/badge/language-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/language-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/framework-symfony-informational?style=flat&logo=symfony&logoColor=white&color=e38b19)
+![](https://img.shields.io/badge/framework-flask-informational?style=flat&logo=flask&logoColor=white&color=e38b19)
+![](https://img.shields.io/badge/framework-angular-informational?style=flat&logo=angular&logoColor=white&color=e38b19)
+![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=e38b19)
+
