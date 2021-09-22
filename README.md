@@ -31,3 +31,11 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=linux&logoColor=white&color=15afd6)
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=15afd6)
 
+# Github statistics
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmillot&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&langs_count=3&theme=dark" />
+
+</div>
+
