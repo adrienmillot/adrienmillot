@@ -27,3 +27,7 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 ![](https://img.shields.io/badge/tools-vscode-informational?style=flat&logo=vscode&logoColor=white&color=de1f6b)
 ![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=de1f6b)
 
+
+![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=linux&logoColor=white&color=15afd6)
+![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=15afd6)
+
