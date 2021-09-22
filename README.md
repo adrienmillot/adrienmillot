@@ -20,3 +20,6 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 ![](https://img.shields.io/badge/framework-angular-informational?style=flat&logo=angular&logoColor=white&color=e38b19)
 ![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=e38b19)
 
+![](https://img.shields.io/badge/orm-doctrine-informational?style=flat&logo=doctrine&logoColor=white&color=c216d9)
+![](https://img.shields.io/badge/orm-sqlalchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=c216d9)
+
