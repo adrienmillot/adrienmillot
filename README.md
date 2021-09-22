@@ -37,5 +37,7 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmillot&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&langs_count=3&theme=dark" />
 
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=adrienmillot&show_icons=true&theme=dark&bg_color=1d1f21" />
+
 </div>
 
