@@ -44,9 +44,11 @@ Apart, from coding, I also maintain a blog - you can find my articles on [![](ht
 
 </div>
 
+<br />
+<br />
+<br />
+
 <div align="right">
-
 <img height="20" src="https://komarev.com/ghpvc/?username=adrienmillot&label=Views&color=2fbf64&style=flat" alt="views on github" />
-
 </div>
 
